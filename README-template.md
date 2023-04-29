@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/Screenshot_47.jpg)
+<img src="https://github.com/Maria1324/advice-generator/blob/main/images/Screenshot_47.png" alt="Screenshot" style="max-width: 100%;">
 
 
 ### Links
